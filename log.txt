@@ -1,0 +1,381 @@
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri concert-this Drake----------------------------------------------
+Venue: Wells Fargo Center
+Location: Philadelphia, PA
+Date: 09/16/2018
+----------------------------------------------
+Venue: Bridgestone Arena
+Location: Nashville, TN
+Date: 09/18/2018
+----------------------------------------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL
+Date: 09/21/2018
+----------------------------------------------
+Venue: Smoothie King Center
+Location: New Orleans, LA
+Date: 09/24/2018
+----------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX
+Date: 09/26/2018
+----------------------------------------------
+Venue: E11even
+Location: Miami, FL
+Date: 09/22/2018
+----------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX
+Date: 09/27/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 09/29/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 09/30/2018
+----------------------------------------------
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, NV
+Date: 10/05/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 10/02/2018
+----------------------------------------------
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, NV
+Date: 10/06/2018
+----------------------------------------------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT
+Date: 10/10/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/12/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/13/2018
+----------------------------------------------
+Venue: Gila River Arena
+Location: Glendale, AZ
+Date: 10/08/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/14/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/16/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/19/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/17/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/26/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/29/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/27/2018
+----------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver, 
+Date: 11/03/2018
+----------------------------------------------
+Venue: Tacoma Dome
+Location: Tacoma, WA
+Date: 11/01/2018
+----------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver, 
+Date: 11/04/2018
+----------------------------------------------
+Venue: Rogers Place
+Location: Edmonton, 
+Date: 11/06/2018
+----------------------------------------------
+Venue: State Farm Arena
+Location: Atlanta, GA
+Date: 11/16/2018
+----------------------------------------------
+Venue: Rogers Place
+Location: Edmonton, 
+Date: 11/07/2018
+----------------------------------------------
+Venue: State Farm Arena
+Location: Atlanta, GA
+Date: 11/17/2018
+----------------------------------------------
+Venue: Chateau Le Jardin Event Venue
+Location: Woodbridge, 
+Date: 11/29/2018
+----------------------------------------------
+Venue: Accorhotels Arena
+Location: Paris, 
+Date: 03/09/2019
+----------------------------------------------
+Venue: Accorhotels Arena
+Location: Paris, 
+Date: 03/08/2019
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri concert-this Jay Rock----------------------------------------------
+Venue: Mod Club Theatre
+Location: Toronto, 
+Date: 09/16/2018
+----------------------------------------------
+Venue: Union Transfer
+Location: Philadelphia, PA
+Date: 09/19/2018
+----------------------------------------------
+Venue: Irving Plaza
+Location: New York, NY
+Date: 09/18/2018
+----------------------------------------------
+Venue: The Fillmore
+Location: Silver Spring, MD
+Date: 09/24/2018
+----------------------------------------------
+Venue: Baltimore Soundstage
+Location: Baltimore, MD
+Date: 09/25/2018
+----------------------------------------------
+Venue: The Underground - Fillmore Charlotte
+Location: Charlotte, NC
+Date: 09/27/2018
+----------------------------------------------
+Venue: Center Stage Theater
+Location: Atlanta, GA
+Date: 09/28/2018
+----------------------------------------------
+Venue: Republic New Orleans
+Location: New Orleans, LA
+Date: 09/29/2018
+----------------------------------------------
+Venue: Come and Take It Live
+Location: Austin, TX
+Date: 10/01/2018
+----------------------------------------------
+Venue: Middle East
+Location: Cambridge, MA
+Date: 09/21/2018
+----------------------------------------------
+Venue: Warehouse Live
+Location: Houston, TX
+Date: 10/02/2018
+----------------------------------------------
+Venue: Cervantes'  Other Side
+Location: Denver, CO
+Date: 10/05/2018
+----------------------------------------------
+Venue: Trees
+Location: Dallas, TX
+Date: 10/03/2018
+----------------------------------------------
+Venue: Kilby Court
+Location: Salt Lake City, UT
+Date: 10/07/2018
+----------------------------------------------
+Venue: Imperial Vancouver
+Location: Vancouver, 
+Date: 10/09/2018
+----------------------------------------------
+Venue: Neumos
+Location: Seattle, WA
+Date: 10/10/2018
+----------------------------------------------
+Venue: Wow Hall
+Location: Eugene, OR
+Date: 10/13/2018
+----------------------------------------------
+Venue: Harlow's Restaurant and Nightclub
+Location: Sacramento, CA
+Date: 10/15/2018
+----------------------------------------------
+Venue: Catalyst
+Location: Santa Cruz, CA
+Date: 10/16/2018
+----------------------------------------------
+Venue: Hawthorne Theatre
+Location: Portland, OR
+Date: 10/11/2018
+----------------------------------------------
+Venue: Observatory
+Location: Santa Ana, CA
+Date: 10/24/2018
+----------------------------------------------
+Venue: Crescent Ballroom
+Location: Phoenix, AZ
+Date: 10/23/2018
+----------------------------------------------
+Venue: The New Parish
+Location: Oakland, CA
+Date: 10/18/2018
+----------------------------------------------
+Venue: Fonda Theatre
+Location: Los Angeles, CA
+Date: 10/29/2018
+----------------------------------------------
+Venue: SOMA
+Location: San Diego, CA
+Date: 10/25/2018
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri spotify-this-song Purple RainArtist(s): Prince
+Song name: Purple Rain
+Preview: https://p.scdn.co/mp3-preview/2fe008411edea4f21355301daa8993663eaf46f8?cid=5c67338b8066417d819807b93311738f
+Album: Purple Rain
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri movie-this Lion KingTitle: The Lion King
+Year: 1994
+Ratings:
+8.5/10
+93%
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri do-what-it-saysArtist(s): Backstreet Boys
+Song name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5c67338b8066417d819807b93311738f
+Album: The Hits--Chapter One
+C:\Program Files\nodejs\node.exe C:\Users\abdal\Desktop\Bootcamp\Coursework\10-nodejs\liri-node-app\liri concert-this Drake----------------------------------------------
+Venue: Wells Fargo Center
+Location: Philadelphia, PA
+Date: 09/16/2018
+----------------------------------------------
+Venue: Bridgestone Arena
+Location: Nashville, TN
+Date: 09/18/2018
+----------------------------------------------
+Venue: AmericanAirlines Arena
+Location: Miami, FL
+Date: 09/21/2018
+----------------------------------------------
+Venue: Smoothie King Center
+Location: New Orleans, LA
+Date: 09/24/2018
+----------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX
+Date: 09/27/2018
+----------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX
+Date: 09/26/2018
+----------------------------------------------
+Venue: E11even
+Location: Miami, FL
+Date: 09/22/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 09/29/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 09/30/2018
+----------------------------------------------
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, NV
+Date: 10/05/2018
+----------------------------------------------
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, NV
+Date: 10/06/2018
+----------------------------------------------
+Venue: Gila River Arena
+Location: Glendale, AZ
+Date: 10/08/2018
+----------------------------------------------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, UT
+Date: 10/10/2018
+----------------------------------------------
+Venue: Toyota Center
+Location: Houston, TX
+Date: 10/02/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/12/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/13/2018
+----------------------------------------------
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 10/14/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/17/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/16/2018
+----------------------------------------------
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 10/19/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/26/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/29/2018
+----------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver, 
+Date: 11/03/2018
+----------------------------------------------
+Venue: Oracle Arena
+Location: Oakland, CA
+Date: 10/27/2018
+----------------------------------------------
+Venue: Rogers Arena
+Location: Vancouver, 
+Date: 11/04/2018
+----------------------------------------------
+Venue: Tacoma Dome
+Location: Tacoma, WA
+Date: 11/01/2018
+----------------------------------------------
+Venue: Rogers Place
+Location: Edmonton, 
+Date: 11/06/2018
+----------------------------------------------
+Venue: State Farm Arena
+Location: Atlanta, GA
+Date: 11/16/2018
+----------------------------------------------
+Venue: State Farm Arena
+Location: Atlanta, GA
+Date: 11/17/2018
+----------------------------------------------
+Venue: Chateau Le Jardin Event Venue
+Location: Woodbridge, 
+Date: 11/29/2018
+----------------------------------------------
+Venue: Rogers Place
+Location: Edmonton, 
+Date: 11/07/2018
+----------------------------------------------
+Venue: Accorhotels Arena
+Location: Paris, 
+Date: 03/09/2019
+----------------------------------------------
+Venue: Accorhotels Arena
+Location: Paris, 
+Date: 03/08/2019

@@ -61,7 +61,7 @@ var Song = function (song) {
 };
 
 var Movie = function (movie) {
-    var URL = `http://www.omdbapi.com/?apikey=${keys.omdb.apikey}&t=${movie}`;
+    var URL = `http://www.omdbapi.com/?apikey=${keys.omdb.apikey}&t=${movie ? movie : "Mr. Nobody"}`;
 
     request(URL, function(err, res, body) {
         if (err) throw err;
